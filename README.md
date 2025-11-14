@@ -7,7 +7,7 @@
 <p align="left">
   ✨ Creating clean, modern web experiences for the past 2 years<br>
   📚 Currently learning: Full-stack development (Next.js backend + Node.js + MongoDB)<br>
-  🎯 Goals: Become a full-stack developer and build real-world SaaS projects<br>
+  🎯 Goals: Transition into mobile/app development, building scalable and user-friendly applications<br>
   🎲 Fun fact: I can code for hours if I’m excited about the project 😄
 </p>
 
