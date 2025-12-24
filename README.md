@@ -2,11 +2,23 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
+  <!-- Left: Text -->
+  <div style="flex: 1; min-width: 250px;">
+    <h2>About Me</h2>
+    <p>
+      I craft clean, modern, and responsive web applications with a focus on React, Next.js, and seamless user experiences. 
+      With a strong eye for detail and a drive for innovation, I turn ideas into real-world solutions. 
+      I always focus on solving complex problems and building projects that make an impact.
+    </p>
+  </div>
 
-<p align="left">
-I craft clean, modern, and responsive web applications with a focus on React, Next.js, and seamless user experiences. With a strong eye for detail and a drive for innovation, I turn ideas into real world solutions. I always focus on solving complex problems and building projects that make an impact.
-</p>
+  <!-- Right: Image -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://wqsrz.netlify.app/3dcart.png" alt="Waqas Raza" style="max-width: 100%; border-radius: 12px;">
+  </div>
+</div>
+
 
 
 <div align="center">
