@@ -1,15 +1,13 @@
-<h2 align="left">Hi 👋! My name is Waqas Raza, and I'm a Frontend Developer from Sydney, Australia</h2>
+<h2 align="left">Hi 👋! Thanks for visiting, I'm Waqas Raza, Full Stack Developer based in Sydney.</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 <p align="left">
-  ✨ Creating clean, modern web experiences for the past 2 years<br>
-  📚 Currently learning: Full-stack development (Next.js backend + Node.js + MongoDB)<br>
-  🎯 Goals: Transition into app and full-stack development, building scalable and user-friendly applications<br>
-  🎲 Fun fact: I can code for hours if I’m excited about the project 😄
+I craft clean, modern, and responsive web applications with a focus on React, Next.js, and seamless user experiences. With a strong eye for detail and a drive for innovation, I turn ideas into real world solutions. I always focus on solving complex problems and building projects that make an impact.
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wqsrzaaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
