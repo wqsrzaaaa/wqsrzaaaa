@@ -13,11 +13,12 @@
     </p>
   </div>
 
-  <!-- Right: Image -->
-  <div style="flex: 1; min-width: 120px; text-align: center;">
-    <img src="https://wqsrz.netlify.app/3dcart.png" alt="Waqas Raza" style="width: 100%">
+  <!-- Right: Small Image -->
+  <div style="flex: 0 0 auto; text-align: center;">
+    <img src="https://wqsrz.netlify.app/3dcart.png" alt="Waqas Raza" style="width: 120px; height: auto; border-radius: 8px;">
   </div>
 </div>
+
 
 
 
