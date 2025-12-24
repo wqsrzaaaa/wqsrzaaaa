@@ -14,8 +14,8 @@
   </div>
 
   <!-- Right: Image -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://wqsrz.netlify.app/3dcart.png" alt="Waqas Raza" style="max-width: 100%; border-radius: 12px;">
+  <div style="flex: 1; min-width: 120px; text-align: center;">
+    <img src="https://wqsrz.netlify.app/3dcart.png" alt="Waqas Raza" style="width: 100%">
   </div>
 </div>
 
