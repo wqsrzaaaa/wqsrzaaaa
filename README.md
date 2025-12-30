@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <!-- Left: Text -->
-  <div style="flex: 1; min-width: 250px;">
+  <div style="display: flex; align-items: center; min-width: 250px;">
    <div>
       <h2>About Me</h2>
     <p>
