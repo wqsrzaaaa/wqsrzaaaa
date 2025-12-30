@@ -2,24 +2,26 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
-  <!-- Left: Text -->
-  <div style="display: flex; align-items: center; min-width: 250px;">
-   <div>
-      <h2>About Me</h2>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <h2>About Me</h2>
     <p>
-      I craft clean, modern, and responsive web applications with a focus on React, Next.js, and seamless user experiences. 
-      With a strong eye for detail and a drive for innovation, I turn ideas into real-world solutions. 
-      I always focus on solving complex problems and building projects that make an impact.
+      I craft clean, modern, and responsive web applications with React & Next.js,
+      focusing on clean UI and real-world problem solving.
     </p>
-   </div>  
-  <div style="flex: 0 0 auto; text-align: center;">
-    <img src="https://wqsrz.netlify.app/3dcart.png" alt="Waqas Raza" style="width: 120px; height: auto; border-radius: 8px;">
-  </div>
   </div>
 
-  <!-- Right: Small Image -->
+  <div style="margin-top: 10px;">
+    <img 
+      src="https://wqsrz.netlify.app/3dcart.png"
+      width="120"
+      style="border-radius: 8px;"
+    />
+  </div>
+
 </div>
+
 
 
 
