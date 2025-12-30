@@ -2,40 +2,41 @@
 
 ###
 
-<div style="display: flex; align-items: center; min-width: 250px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 
-  <div style="margin-right: 20px;">
+  <!-- Text Section -->
+  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
     <h2>About Me</h2>
     <p>
-      I craft clean, modern, and responsive web applications with a focus on React, Next.js, and seamless user experiences.
+       I craft clean, modern, and responsive web applications with a focus on <strong>React</strong>, <strong>Next.js</strong>, and seamless user experiences.
       With a strong eye for detail and a drive for innovation, I turn ideas into real world solutions.
       I always focus on solving complex problems and building projects that make an impact.
- <br /><br />
 
-  On the backend, I work with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>Firebase</strong>,  
-  while using <strong>MongoDB</strong> for database management.  
-  I enjoy solving complex problems and building projects that make an impact.
+      <br>
 
-  <br /><br />
+      On the backend, I work with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>Firebase</strong>,  
+      while using <strong>MongoDB</strong> for database management.  
+      I enjoy solving complex problems and building projects that make an impact.
 
-  💻 Check out my work: <a href="https://wqsrz.netlify.app/" target="_blank">Portfolio</a>  
-  📧 Email: <a href="mailto:wqsrza07@gmail.com">wqsza07@gmail.com</a>  
-  📱 Contact: +61 470 416 718
-</p>
+      <br>
+
+      💻 <a href="https://wqsrz.netlify.app/" target="_blank">Portfolio</a><br>
+      📧 <a href="mailto:wqsrza07@gmail.com">wqsrza07@gmail.com</a><br>
+      📱 +61 470 416 718
+    </p>
   </div>
 
+  <!-- Image Section -->
   <div style="flex-shrink: 0; text-align: center;">
     <img 
       src="https://wqsrz.netlify.app/3dcart.png" 
       alt="Waqas Raza"
       width="120"
-      style="border-radius: 8px;"
+      style="border-radius: 8px; margin-top: 10px;"
     />
   </div>
 
 </div>
-
-
 
 
 
