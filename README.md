@@ -17,7 +17,7 @@
       I enjoy solving complex problems and building projects that make an impact.
       <br><br>
       💻 <a href="https://wqsrz.netlify.app/" target="_blank">Portfolio</a><br>
-      📧 <a href="mailto:wqsrza07@gmail.com">wqsrza07@gmail.com</a><br>
+      📧 <a href="https://mail.google.com/mail/u/0/?hl=en#inbox?compose=jrjtXGkczmWkBqNLvLmWwMfpvRkFqhjwBdqXtrBxSQzCXNSKvShZtkBkHCpMHgNKPmLmGbKk">wqsrza07@gmail.com</a><br>
       📱 +61 470 416 718
     </p>
   </div>
