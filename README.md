@@ -23,7 +23,7 @@
   </div>
 
   <!-- Image Section -->
-  <div style="flex-shrink: 0;" margin-bottom='30px'  align="right">
+  <div style="flex-shrink: 0;" >
     <img 
       src="https://wqsrz.netlify.app/3dcart.png" 
       alt="Waqas Raza"
