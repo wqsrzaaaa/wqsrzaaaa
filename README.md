@@ -6,7 +6,7 @@
 
   <!-- Text Section -->
   <div style="flex: 1; min-width: 250px; margin-right: 20px;">
-    <h2>About Me - </h2>
+    <h2>About Me </h2>
     <p>
        I craft clean, modern, and responsive web applications with a focus on <strong>React</strong>, <strong>Next.js</strong>, and seamless user experiences.
       With a strong eye for detail and a drive for innovation, I turn ideas into real world solutions.
@@ -23,7 +23,7 @@
   </div>
 
   <!-- Image Section -->
-  <div style="flex-shrink: 0; text-align: center;">
+  <div style="flex-shrink: 0;"   align="right">
     <img 
       src="https://wqsrz.netlify.app/3dcart.png" 
       alt="Waqas Raza"
